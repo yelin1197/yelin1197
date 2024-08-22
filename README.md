@@ -1,4 +1,6 @@
 ### Hi there 👋
+Yelin Jang
+EWHA Womans Univ. Cyber Security major
 <!--
 **yelin1197/yelin1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
