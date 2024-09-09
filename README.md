@@ -21,7 +21,7 @@ VisualStudioCode Github Eclips intellij Colab
 ---
 
 ### Contact
-Instagram Tistory Velog Gmail GitHub
+Instagram Tistory Velog Gmail GitHub Notion
 
 ---
 
