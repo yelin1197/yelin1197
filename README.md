@@ -4,23 +4,23 @@
 
 ---
 
-###Department
+### Department
 Ewha Womans University
 Cyber Security Major
 
 ---
 
-###Studing
+### Studing
 Java Springboot JavaScript NodeJs C Python HTML CSS
 
 ---
 
-###Tools
+### Tools
 VisualStudioCode Github Eclips intellij Colab
 
 ---
 
-###Contact
+### Contact
 Instagram Tistory Velog Gmail GitHub
 
 ---
