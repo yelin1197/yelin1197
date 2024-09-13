@@ -1,6 +1,6 @@
 <a id="Yelin's Hub">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=#7B68EE&text=Yelin's%20Hub&height=150&fontSize=60&desc=welcome&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=7B68EE&text=Yelin's%20Hub&height=150&fontSize=60&desc=welcome&descAlignY=75&descAlign=60)
 
 ---
 
